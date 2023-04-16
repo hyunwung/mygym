@@ -4,7 +4,7 @@ import "./Header.scss"
 const Header = () => {
   return (
     <div className='header'>
-        <h1>나의 PT가 집에 왔다 !</h1>
+        <h1>기획을 바꿔야겠다. ㅎㅎ</h1>
     </div>
   )
 }
